@@ -1,11 +1,7 @@
 <script setup>
-
+import CustomForm from './components/CustomForm.vue';
 </script>
 
 <template>
-  <h1>Hello</h1>
+  <CustomForm />
 </template>
-
-<style scoped>
-
-</style>
